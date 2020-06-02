@@ -1,7 +1,6 @@
-import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class Day0a {
 
     public static double mean(int[] arr) {
         double average = 0.0;
